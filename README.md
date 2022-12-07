@@ -1,3 +1,3 @@
 # cicd
 
-Repositório sobre a utilização e criação de workflows usando Github Actions
+Repositório para a utilização e criação de workflows usando Github Actions
